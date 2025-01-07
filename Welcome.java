@@ -4,9 +4,10 @@ public class Welcome {
             return a + b;
         }
     
+    
         public static void main(String[] args) {
             Welcome v1=new Welcome(); 
-            v1.add(10,20);
+            v1.add(50,20);
 
         System.out.println("Welcome to Basic CRUD Operations");
     }
