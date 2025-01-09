@@ -6,6 +6,8 @@ public class sub {
         sub v1=new sub(); 
         v1.sub(50,20);
         System.out.println("Welcome to Basic sub CRUD Operations");
+        System.out.println("Welcome to Basic sub CRUD Operations");
+
     }
     
 }
